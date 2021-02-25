@@ -1,0 +1,19 @@
+@keyframes appear {
+  from {
+    margin-top: -25rem;
+  }
+
+  to {
+    margin-top: 0rem;
+  }
+}
+
+@keyframes disappear {
+  from {
+    margin-top: 0rem;
+  }
+
+  to {
+    margin-top: -29rem;
+  }
+}
